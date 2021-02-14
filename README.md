@@ -1,2 +1,2 @@
 # bootstrap-components
-a repo for pre build bootstrap components that I like
+A repo for pre build bootstrap components
